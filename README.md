@@ -41,28 +41,25 @@
       <div class="profile-picture">
         <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg" alt="Profile Picture">
       </div>
-      <h1>Transcription 1</h1>
+      <h1>Transcription 2</h1>
     </header>
     
         <!-- COLUMNA 1 -->
 
     <div>
 <div style="display: flex; margin-left: 20px; margin-right: 0px; justify-content; width: 990;">
-    <p style = "font-size: 16px;">Interviewer: Ok, basically the idea we have is how to choose personalities from different areas so that they can tell us a little about how it was in 2012, what their main achievements were and also so that we can give a positive message to the country for the arrival of 2013, there is a lot of pessimism for all the things that are coming, but we really believe so, that 2013 is going to be a good year and we want people to know it from you, that is, you, for example, the artistic part, we have here  a businessman, we have the prosecutor, that is, each one from his area gives an optimistic message.</p>
+    <p style = "font-size: 16px;">Interviewer: What did 2012 mean to you, what were your main achievements?</p>
       
       </div>
-<p style="margin-left: 20px;">So the first thing is what 2012 meant to you, both personally and generally, how would you define 2012?</p>
+<p style="margin-left: 20px;">Interviewed: Well, 2012 was a year of many challenges for the justice sector, which is the sector where I work, a year in which issues such as femicides kept us very active, concerned, and developing projects to see how it could be done. reduce to its minimum expression such a serious crime and that generates such a negative impact on society, one of the most relevant issues for us in what has to do with the justice sector is linked to the issue of the new courts, I believe that the implementation or the creation of a new court will protect the fundamental rights of all citizens, it is always an important advance for a country and in that sense I believe that one of the most notorious achievements of 2012 is closely linked to the issue of new courts, historical issues were also raised such as the issue of police reform that is so acclaimed by society and progress has been made on this point and in particular with what has to do with the prosecution we have been practically the entire year installing what is the quality system, which is a system based on a European quality model the CAF for its acronym in English and in that sense it has been positive, but with the security issue we understand that it could have been much better and that the authorities that have the commitment to work on the issue of security, we had to do a better job to guarantee citizens a safer city.</p>
     </div>
 
 <div style="height: 4px; width: 28px; background-color: #011F3B;"></div>
-<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewed: You know about those signs that say ¨construction area¨, for me 2012 was a work process, of creating and creating, I finished my first album, I did my first television segment, on a personal level I also think that Being the second year that I had been in .......... I found myself, I found my people, I found what I like to do and I fell more in love with the country so much so that my desire is to stay and keep working here.</p>
+<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewer: Ok, and on a personal level, what were the main achievements in 2012, how could you define this year?</p>
    
 <div style="height: 4px; width: 28px; background-color: #011F3B;"></div>
-<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewer: Ok, that album that you finished, what is the name?</p>
+<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewed: I would say positive, I like that when taking stock I am not very negative in general terms for me it was a positive year, a new challenge that the district attorney jointly with a master's degree, I would say positive a bit complicated with all this issue of some reforms but on balance I would definitely say positive.</p>
     
-<div style="height: 4px; width: 28px; background-color: #011F3B;"></div>
-<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewed: It's called ¨Me encontre conmigo¨, it's a production that was made with -------- as producer and I also recorded a couple of other things and so we're starting the promotion process in 2013, but also a couple more projects</p>    
-
     
   </body>
 </html>
